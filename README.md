@@ -1,2 +1,2 @@
 # db-abduction
-A Tool for analyzing an existing an DB and generating Laravel Migrations automatically
+A Tool for analyzing an existing DB and generating Laravel Migrations automatically
